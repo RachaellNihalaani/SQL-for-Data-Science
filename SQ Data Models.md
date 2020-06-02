@@ -1,6 +1,5 @@
 # SQL-for-Data-Science : Data Models
 Personal Resources from the UCDavis course by Sadie St. Lawrence
-------------------------------------------------------------------------------
 
 ## Why is thinking before coding important?
 1. Think before you do. Ask yourself – What is the problem you’re trying to solve?
