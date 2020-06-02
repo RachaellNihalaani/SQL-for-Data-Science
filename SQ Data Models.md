@@ -2,7 +2,7 @@
 Personal Resources from the UCDavis course by Sadie St. Lawrence
 ------------------------------------------------------------------------------
 
-Why is thinking before coding important?
+## Why is thinking before coding important?
 1. Think before you do. Ask yourself – What is the problem you’re trying to solve?
 2. Understand your data
   a. Understand your business process/ subject matter the data is modelled after and know the business rules
@@ -16,7 +16,7 @@ Why is thinking before coding important?
 
 
 
-What is a database?
+## What is a database?
 1. Database: A container (a file or a set of files) to store organised data, a set of related information. (like a wall of cabinets)
 2. Table: A structured list of data elements or specific data types within a database. (a single cabinet)
 3. Columns: A single field in a table.
@@ -24,14 +24,14 @@ What is a database?
 
 
 
-What is Data Modelling?
+## What is Data Modelling?
 1. Data Modelling is a way to organise and structure information into multiple related tables and analyse how they relate to each other (data analysis).
 2. A data model should always closely represent a real world problem. It can represent a business process or show the relationship between business processes.
 3. Data models are data tables represented and organised in a database. They are different from models of prediction built by data scientists.
 
 
 
-Evolution of data models
+## Evolution of data models
 1. Relational
   a. Simplifies connection between data
   b. Easily allows you to write queries against it, retrieve it, update and write data to it.
@@ -42,8 +42,8 @@ Evolution of data models
 
 
 
-What is the difference between Relational Models and Transactional Models?
-	1. Relational Models:
+## What is the difference between Relational Models and Transactional Models?
+1. Relational Models:
   a. Shows relationships between different tables
   b. Allows for easy querying and data manipulation in an easy, logical and intuitive way
   c. Benefits:
@@ -57,7 +57,7 @@ What is the difference between Relational Models and Transactional Models?
 
 
 
-Data Model Building Blocks
+## Data Model Building Blocks
 1. Entity
   a. Person, place, thing or event
   b. Distinguishable, unique and distinct
@@ -71,8 +71,7 @@ Data Model Building Blocks
 
 
 
-What is the difference between Primary Keys and Foreign Keys?
-
+## What is the difference between Primary Keys and Foreign Keys?
 Primary Keys: A column or set of columns whose values uniquely identify every row in a table	
 Foreign Keys: One or more columns that can be used together to identify a single row in another table
 Similarities:
@@ -81,8 +80,7 @@ Similarities:
 
 
 
-ER Diagrams
-
+## ER Diagrams
 1. An ER model is composed of entity types and specifies relationships that can exist between instances of those entity types
 2. Represented visually
 3. Shows relationships and links(primary keys) between tables
