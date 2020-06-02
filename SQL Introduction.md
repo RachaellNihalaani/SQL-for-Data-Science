@@ -1,6 +1,6 @@
 # SQL-for-Data-Science : Introduction
 Personal Notes from the UCDavis course by Sadie St. Lawrence
-_____________________________________________________________________________________________________
+
 ## What is SQL?
 1.	Stands for Structured Query Language
 2.	Pronounced as ‘sequel’ or ‘S-Q-L’
